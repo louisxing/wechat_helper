@@ -17,4 +17,4 @@ The document and sdk of wechat are useful for our nodejsers, but there are still
 
 采用方式一：调用微信支付沙箱环境的API接口验证。
 
-但是文档这里有个bug：**参数少了一个pay_key**（此参数可以在商户平台查到），关键代码分享出来，给大家参考。
+但是文档这里有个bug：**参数少了一个pay_key**（此参数可以在商户平台查到），关键代码分享出来，wxVerifyDigCert.js，给大家参考。
